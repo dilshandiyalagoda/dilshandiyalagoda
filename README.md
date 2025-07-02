@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**dilshandiyalagoda/dilshandiyalagoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Dilshan Diyalagoda
 
-Here are some ideas to get you started:
+## About Me
+- 🧑‍💻 Software Developer | Laravel & JavaScript Enthusiast
+- 📚 Currently learning Advanced Web Development
+- 🌱 Passionate about Open Source and community
+- 📫 How to reach me: dilshan123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- PHP, Laravel, JavaScript, HTML, CSS, MySQL
+- Git, GitHub, REST APIs
+
+## Projects
+- [VetConnect](https://github.com/dilshan123/vetconnect) - Pet care appointment system
+- [Phone Shop Website](https://github.com/dilshan123/phone-shop-website) - E-commerce site for mobile phones
+
+## GitHub Stats
+![Dilshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilshan123&show_icons=true&theme=radical)
+
