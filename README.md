@@ -1,5 +1,3 @@
-# Hi 👋, I'm Dilshan Diyalagoda
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&height=45&lines=Software+Developer+%7C+Laravel+%26+JavaScript+Enthusiast" alt="Typing SVG" />
 </div>
@@ -27,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%2361DAFB?style=flat&logo=webhook&logoColor=white)
 
-
+---
 
 ## 📈 GitHub Stats
 
@@ -40,9 +38,11 @@
 
 ## 📫 Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/-dilshan123@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-Dilshan%20Diyalagoda-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dilshan123)](https://linkedin.com/in/dilshan123) 
-[![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
+<div align="center">
+  [![Gmail Badge](https://img.shields.io/badge/-dilshan123@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Dilshan%20Diyalagoda-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dilshan123)](https://linkedin.com/in/dilshan123)
+  [![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
+</div>
 
 ---
 
