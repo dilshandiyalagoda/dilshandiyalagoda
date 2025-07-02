@@ -11,20 +11,23 @@
 - 📚 Continuously learning **Advanced Web Development** and **Cloud Deployment**
 - 🌱 Passionate about **Open Source**, **Clean Code**, and **Agile Methodologies**
 - 💬 Always open for collaboration and new ideas
-- 📫 How to reach me: [dilshandiyalagoda12@gmail.com](mailto:dilshan123@gmail.com)
+- 📫 How to reach me: [dilshan123@gmail.com](mailto:dilshan123@gmail.com)
 
 ---
+
 ## 🛠️ Skills
 
-![PHP](https://img.shields.io/badge/-?style=flat&logo=php&logoColor=white&color=777BB4) 
-![Laravel](https://img.shields.io/badge/-?style=flat&logo=laravel&logoColor=white&color=F05340) 
-![JavaScript](https://img.shields.io/badge/-?style=flat&logo=javascript&logoColor=black&color=F7DF1E)  
-![HTML5](https://img.shields.io/badge/-?style=flat&logo=html5&logoColor=white&color=E34F26) 
-![CSS3](https://img.shields.io/badge/-?style=flat&logo=css3&logoColor=white&color=1572B6) 
-![MySQL](https://img.shields.io/badge/-?style=flat&logo=mysql&logoColor=white&color=4479A1)  
-![Git](https://img.shields.io/badge/-?style=flat&logo=git&logoColor=white&color=F05032) 
-![GitHub](https://img.shields.io/badge/-?style=flat&logo=github&logoColor=white&color=181717) 
-![REST API](https://img.shields.io/badge/-?style=flat&logo=webhook&logoColor=white&color=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23F05340?style=flat&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%2361DAFB?style=flat&logo=webhook&logoColor=white)
+
+
 
 ## 📈 GitHub Stats
 
@@ -37,11 +40,10 @@
 
 ## 📫 Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/-dilshandiyalagoda12@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-dilshan123@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Dilshan%20Diyalagoda-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dilshan123)](https://linkedin.com/in/dilshan123) 
 [![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
 
 ---
 
 *Made with ❤️ by Dilshan Diyalagoda*
-
