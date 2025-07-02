@@ -1,3 +1,5 @@
+# Hi 👋, I'm Thanuka Dilsara
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&height=45&lines=Software+Developer+%7C+Laravel+%26+JavaScript+Enthusiast" alt="Typing SVG" />
 </div>
@@ -9,7 +11,7 @@
 - 📚 Continuously learning **Advanced Web Development** and **Cloud Deployment**
 - 🌱 Passionate about **Open Source**, **Clean Code**, and **Agile Methodologies**
 - 💬 Always open for collaboration and new ideas
-- 📫 How to reach me: [dilshan123@gmail.com](mailto:dilshan123@gmail.com)
+- 📫 How to reach me: [dilshandiyalagoda12@gmail.com](mailto:dilshan123@gmail.com)
 
 ---
 
@@ -34,16 +36,11 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan123&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
 </div>
 
----
-
 ## 📫 Connect with me
 
-<div align="center">
-  [![Gmail Badge](https://img.shields.io/badge/-dilshan123@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-Dilshan%20Diyalagoda-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dilshan123)](https://linkedin.com/in/dilshan123)
-  [![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
-</div>
+[![Gmail Badge](https://img.shields.io/badge/-dilshandiyalagoda12@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Dilshan%20Diyalagoda-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dilshan123)](https://linkedin.com/in/dilshan123) 
+[![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
 
----
 
 *Made with ❤️ by Dilshan Diyalagoda*
