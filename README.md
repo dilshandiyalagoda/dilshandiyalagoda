@@ -1,10 +1,10 @@
 # Hi 👋, I'm Thanuka Dilsara
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&height=45&lines=Software+Developer+%7C+Laravel+%26+JavaScript+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&height=45&lines=Website+Developer" alt="Typing SVG" />
 </div>
 
----
 
 ## 🚀 About Me
 - 🧑‍💻 Full-stack Web Developer specializing in **Laravel** and **JavaScript**
@@ -43,4 +43,4 @@
 [![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
 
 
-*Made with ❤️ by Dilshan Diyalagoda*
+*Made with ❤️ by Thanuka Dilsara*
