@@ -11,7 +11,7 @@
 - 📚 Continuously learning **Advanced Web Development** and **Cloud Deployment**
 - 🌱 Passionate about **Open Source**, **Clean Code**, and **Agile Methodologies**
 - 💬 Always open for collaboration and new ideas
-- 📫 How to reach me: [dilshan123@gmail.com](mailto:dilshan123@gmail.com)
+- 📫 How to reach me: [dilshandiyalagoda12@gmail.com](mailto:dilshan123@gmail.com)
 
 ---
 
@@ -61,34 +61,7 @@
   </tr>
 </table>
 
----
 
-## 💼 Projects
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/dilshan123/vetconnect" target="_blank">
-        <img src="https://raw.githubusercontent.com/dilshan123/vetconnect/main/public/images/logo.png" alt="VetConnect" width="100" />
-        <br />
-        <b>VetConnect</b>
-      </a>
-      <br />
-      Pet care appointment system 🐶🐱
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/dilshan123/phone-shop-website" target="_blank">
-        <img src="https://raw.githubusercontent.com/dilshan123/phone-shop-website/main/public/assets/logo.png" alt="Phone Shop" width="100" />
-        <br />
-        <b>Phone Shop Website</b>
-      </a>
-      <br />
-      E-commerce site for mobile phones 📱
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 GitHub Stats
 
@@ -101,7 +74,7 @@
 
 ## 📫 Connect with me
 
-[![Gmail Badge](https://img.shields.io/badge/-dilshan123@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-dilshandiyalagoda12@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:dilshan123@gmail.com)](mailto:dilshan123@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-Dilshan%20Diyalagoda-blue?style=flat&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dilshan123)](https://linkedin.com/in/dilshan123) 
 [![GitHub Badge](https://img.shields.io/badge/-dilshan123-181717?style=flat&logo=github&logoColor=white&link=https://github.com/dilshan123)](https://github.com/dilshan123)
 
